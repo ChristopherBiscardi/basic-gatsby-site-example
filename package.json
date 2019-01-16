@@ -1,0 +1,15 @@
+{
+  "name": "basic-gatsby-site-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "christopherbiscardi <chris@christopherbiscardi.com> (@chrisbiscardi)",
+  "license": "MIT",
+  "dependencies": {
+    "@mdx-js/mdx": "^0.16.6",
+    "@mdx-js/tag": "^0.16.6",
+    "gatsby": "^2.0.91",
+    "gatsby-mdx": "^0.3.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
